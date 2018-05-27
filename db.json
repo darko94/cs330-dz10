@@ -4,27 +4,32 @@
     {
       "indeks": 2305,
       "ime": "Darko",
-      "prezime": "Mišić"
+      "prezime": "Mišić",
+      "godina" : 4
     },
     {
       "indeks": 2325,
       "ime": "Dušan",
-      "prezime": "Nešić"
+      "prezime": "Nešić",
+      "godina" : 4
     },
     {
       "indeks": 2317,
       "ime": "Milica",
-      "prezime": "Jovanović"
+      "prezime": "Jovanović",
+      "godina" : 4
     },
     {
       "indeks": 3416,
       "ime": "Aleksa",
-      "prezime": "Zdravković"
+      "prezime": "Zdravković",
+      "godina" : 1
     },
     {
       "indeks": 3060,
       "ime": "Katarina",
-      "prezime": "Stojković"
+      "prezime": "Stojković",
+      "godina" : 2
     }  
   ]
 }
