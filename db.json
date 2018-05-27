@@ -1,0 +1,30 @@
+{
+  "studenti" :
+  [
+    {
+      "indeks": 2305,
+      "ime": "Darko",
+      "prezime": "Mišić"
+    },
+    {
+      "indeks": 2,
+      "ime": "Dušan",
+      "prezime": "Nešić"
+    },
+    {
+      "indeks": 3,
+      "ime": "Milica",
+      "prezime": "Jovanović"
+    },
+    {
+      "indeks": 4,
+      "ime": "Aleksa",
+      "prezime": "Zdravković"
+    },
+    {
+      "indeks": 5,
+      "ime": "Katarina",
+      "prezime": "Stojković"
+    }  
+  ]
+}
