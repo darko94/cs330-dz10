@@ -30,6 +30,12 @@
       "ime": "Katarina",
       "prezime": "Stojković",
       "godina" : 2
-    }  
+    },
+    {
+      "indeks": 2956,
+      "ime": "Vladan",
+      "prezime": "Ristić",
+      "godina" : 2
+    }    
   ]
 }
