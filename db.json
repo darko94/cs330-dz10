@@ -1,47 +1,13 @@
 {
-  "studenti" :
+  "filmovi" :
   [
     {
-      "indeks": 2305,
-      "ime": "Darko",
-      "prezime": "Mišić",
-      "godina" : 4
+      "naslov": "Deadpool 2",
+      "slikaUrl": "https://img.cineplexx.at/media/rs/inc/movies_licences/223_8.png"
     },
     {
-      "indeks": 5555,
-      "ime": "Marija",
-      "prezime": "Stošić",
-      "godina" : 1
-    },
-    {
-      "indeks": 2325,
-      "ime": "Dušan",
-      "prezime": "Nešić",
-      "godina" : 4
-    },
-    {
-      "indeks": 2317,
-      "ime": "Milica",
-      "prezime": "Jovanović",
-      "godina" : 4
-    },
-    {
-      "indeks": 3416,
-      "ime": "Aleksa",
-      "prezime": "Zdravković",
-      "godina" : 1
-    },
-    {
-      "indeks": 3060,
-      "ime": "Katarina",
-      "prezime": "Stojković",
-      "godina" : 2
-    },
-    {
-      "indeks": 2956,
-      "ime": "Vladan",
-      "prezime": "Ristić",
-      "godina" : 2
-    }    
+      "naslov": "Bilo jednom u Veneciji",
+      "slikaUrl": "https://img.cineplexx.at/media/rs/inc/movies_licences/OUATIV-Banner-223x324.jpg"
+    }
   ]
 }
